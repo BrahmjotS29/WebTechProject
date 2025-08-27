@@ -21,7 +21,7 @@ h1 {
 
 /* H2 as pdf: rgb colour, bold, 1.5x */
 h2 {
-  color: rgb(0, 128, 128);
+  color: teal;
   font-weight: bold;
   font-size: 1.5em;
 }
