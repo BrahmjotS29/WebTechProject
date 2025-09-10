@@ -56,9 +56,9 @@ table td {
   color: red;
 }
 
-/* Class selectors */
+/* Class selectors (made colour black to have better contrast) */
 .special {
-  color: darkorange;
+  color: black;
   font-weight: bold;
 }
 
